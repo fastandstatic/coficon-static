@@ -8,16 +8,24 @@
 	>
 
 <channel>
-	<title>Template Fast Static</title>
+	<title>Coficon S&amp;G</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description></description>
-	<lastBuildDate>Fri, 10 Nov 2023 21:19:21 +0000</lastBuildDate>
+	<description>Consultorias integrales, financieras y contables</description>
+	<lastBuildDate>Fri, 10 Nov 2023 22:45:22 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>./../wp-content/uploads/2023/11/cropped-Component-2-32x32.png</url>
+	<title>Coficon S&amp;G</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
