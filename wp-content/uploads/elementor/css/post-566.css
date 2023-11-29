@@ -11,8 +11,9 @@
   height: 35px;
 }
 .elementor-field-group-tipo_credito span.elementor-field-option {  
-  width: 31%;
+  width: 48%;
   margin-right: 2%;
+  margin-bottom: 2%;
   border: 1px solid #192533;
   border-radius: 50px;
   text-align: center;
